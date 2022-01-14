@@ -2,7 +2,7 @@
 <img width="40%" src="assets/img/Login.JPG"/><br/>
 </p>
 <div align="center">
-Technologies:
+Technologies:<br/>
 HTML5 and CSS:Front-end and style <br/>
 JAVASCRIPT:Backend,front-end and styel.<br/>
 Project challenges:<br/>
