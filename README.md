@@ -3,8 +3,8 @@
 </p>
 <div align="center">
 Technologies:
-HTML5 and CSS:Front-end and style 
-JAVASCRIPT:Backend,front-end and styel.
+HTML5 and CSS:Front-end and style <br/>
+JAVASCRIPT:Backend,front-end and styel.<br/>
 Project challenges:<br/>
 <img width="40%" src="assets/img/Local.JPG"/><br/>
 <img width="40%" src="assets/img/LocalCode.JPG"/><br/>
